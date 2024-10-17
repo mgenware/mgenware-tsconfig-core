@@ -4,3 +4,5 @@ dist/
 *.log
 *.pid
 *.seed
+
+pnpm-lock.yaml
