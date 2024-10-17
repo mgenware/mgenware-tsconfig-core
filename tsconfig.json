@@ -7,7 +7,7 @@
     "moduleResolution": "NodeNext",
     "moduleDetection": "force",
     "target": "ES2022",
-    "lib": ["ES2022"],
+    "lib": ["ES2023"],
     "forceConsistentCasingInFileNames": true,
     "removeComments": true,
     "sourceMap": true,
