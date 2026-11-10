@@ -1,7 +1,7 @@
 {
   "name": "mgenware-tsconfig-core",
-  "version": "20.0.0",
-  "description": "Base `tsconfig.json` for Mgenware TypeScript projects. TypeScript 4.7+, node 14+.",
+  "version": "26.0.0",
+  "description": "Base `tsconfig.json` for Mgenware TypeScript projects. TypeScript 7+, node 26+.",
   "author": "Mgenware (https://github.com/mgenware)",
   "homepage": "https://github.com/mgenware/mgenware-tsconfig-core",
   "bugs": "https://github.com/mgenware/mgenware-tsconfig-core/issues",
@@ -13,6 +13,9 @@
     "url": "https://github.com/mgenware/mgenware-tsconfig-core"
   },
   "license": "MIT",
+  "engines": {
+    "node": ">=26"
+  },
   "scripts": {
     "test": "node ./validate.js"
   }

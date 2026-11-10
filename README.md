@@ -2,12 +2,12 @@
 
 [![npm version](https://img.shields.io/npm/v/mgenware-tsconfig-core.svg?style=flat-square)](https://npmjs.com/package/mgenware-tsconfig-core)
 
-Base `tsconfig.json` for Mgenware TypeScript projects. TypeScript 5+, node 20+.
+Base `tsconfig.json` for Mgenware TypeScript projects. TypeScript 7+, node 26+.
 
 ## Installation
 
 ```sh
-npm i -D mgenware-tsconfig-core
+npm i -D mgenware-tsconfig-core @types/node
 ```
 
 NOTE: package major version indicates the minimum supported node version.
